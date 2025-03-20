@@ -1,0 +1,31 @@
+This code will execute a simple tic tac toe game on terminal.
+
+Requirements:
+    -It must be playable for both players.
+    -It must be made using funtional paradigm.
+    -There must be a way to select the movements.
+
+They will be used:
+    -VS code.
+    -g++ command line compiler.
+    -Powershell.
+
+How to render the grid?
+
+How to track the score?
+
+How to gather the player next movement?
+
+How to check if there is point?
+
+Sequence of events:
+    1. Render grid.
+    2. Ask next movement of X.
+    3 If won game.
+    4. Re-render grid.
+    5. Ask next movement of O.
+    6. check if got three in a row.
+    6.1 If won game done.
+    7. Re-render grid.
+    8. Repeat sequence.
+
