@@ -61,9 +61,10 @@ Player X: Select position of next movement...
 ```
 ## Compatibility
 
-This project has been compiled on:
+This project has been compiled an run on:
 1. Windows 11 x86 (g++)
 2. WSL(Ubuntu) x86 (g++)
+3. Android 15 ARM64 (CLang) on Termux
 
 If you test it out in any of the above platforms it should work with no issues.
 
